@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: false
-          tags: tiagolorenzetti/codeEducation-fullCycle-ci-go:latest
+          tags: tiagolorenzetti/codeeducation-fullcycle-ci-go:latest
